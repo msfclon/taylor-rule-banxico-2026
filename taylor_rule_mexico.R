@@ -13,8 +13,6 @@ library(gridExtra)
 datos <- read.csv(file.choose(), stringsAsFactors = FALSE)
 
 
-# 3. Construcción de variables
-
 
 # Filtro Hodrick-Prescott para la tendencia del IGAE (lambda = 1600)
 hp <- hpfilter(log(datos$igae), freq = 1600)
