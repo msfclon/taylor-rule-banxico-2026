@@ -40,7 +40,7 @@ $$i_t = \alpha + \beta_1\pi_t + \beta_2\tilde{y}_t + \beta_3\Delta e_t + \rho\, 
 | Variación tipo de cambio (β₃) | 0.0085 | 0.520 |
 | Tasa rezagada (ρ) | 0.8918 | 0.000 *** |
 
-##Simulación de escenarios — Marzo 2026
+## Simulación de escenarios — Marzo 2026
 
 | Escenario | Tasa predicha |
 |---|---|
