@@ -59,7 +59,7 @@ $$i_t = \alpha + \beta_1\pi_t + \beta_2\tilde{y}_t + \beta_3\Delta e_t + \rho\, 
 
 ---
 
-## 🛠️ Herramientas
+##Herramientas
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
